@@ -74,7 +74,7 @@
     "chartjs-plugin-datalabels": "0.4.0",
     "jss": "9.8.7",
     "jss-rtl": "0.2.3",
-    "lodash": "4.17.11",
+    "lodash": "4.17.19",
     "prop-types": "15.6.2",
     "react-bootstrap": "0.32.1",
     "react-chartjs-2": "2.7.4",
